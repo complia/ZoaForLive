@@ -2,8 +2,8 @@
 Control the Zoa in Ableton with this Max for Live patch. 
 
 ## Axes
-* Pitch (up/down)
 * Yaw (twist)
+* Pitch (up/down)
 * Roll (left/right)
 
 ## Patches
