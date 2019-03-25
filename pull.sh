@@ -4,4 +4,4 @@ root=~/"Music/Ableton/User Library/Presets/MIDI Effects/Max MIDI Effect/"
 
 cp "$root"Zoa.amxd ./
 cp "$root"stringFormat.js ./
-cp "$root"ZoaMockHardware.amxd ./
+cp "$root"MockZoaHardware.amxd ./

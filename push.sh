@@ -7,4 +7,4 @@ root=~/"Music/Ableton/User Library/Presets/MIDI Effects/Max MIDI Effect/"
 # TODO embed js in patch
 cp ./Zoa.amxd "$root"
 cp ./stringFormat.js "$root"
-cp ./ZoaMockHardware.amxd "$root"
+cp ./MockZoaHardware.amxd "$root"
