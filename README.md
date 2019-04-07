@@ -2,11 +2,9 @@
 Control the Zoa in Ableton with this Max for Live patch. 
 
 ## Axes
-* Yaw (twist)
-* Pitch (up/down)
-* Roll (left/right)
-
-(like an aeroplane: https://www.youtube.com/watch?v=pQ24NtnaLl8)
+* Pivot
+* Rock
+* Twist
 
 ## Patches
 To use a patch, drag the .amxd into a midi track. 
