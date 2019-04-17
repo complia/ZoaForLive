@@ -5,4 +5,4 @@ Control the Zoa in Ableton with Max for Live.
 
 
 ## Patch
-To use a patch, drag the `Zoa.amxd` into a midi track. Map to ableton controls, set axis sensitivity and origin (natural resting output) 
+To use the patch, drag the `Zoa.amxd` into a midi track. Use each instance to map ableton controls, set axis sensitivity and the origin (Zoa's natural resting output) 
