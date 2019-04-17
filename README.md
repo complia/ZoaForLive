@@ -1,6 +1,9 @@
 # ZoaForLive
 Control the Zoa in Ableton with this Max for Live patch. 
 
+![Alt text](/HowToUse.jpg?raw=true "Title")
+
+
 ## Axes
 * Pivot
 * Rock
