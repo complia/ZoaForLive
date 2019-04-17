@@ -23,4 +23,4 @@ Zoa is powered by usb. This can be from a PC/Mac or a 5v power source such as wa
 ## Patch
 To use the patch, drag the `Zoa.amxd` into a midi track. Use each instance to map ableton controls, set axis sensitivity and the origin (Zoa's natural resting output) 
 
-| ![Alt text](/help/Patch.png?raw=true "Title") |
+![Alt text](/help/Patch.png?raw=true "Title")
