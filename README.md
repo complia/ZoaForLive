@@ -8,9 +8,9 @@ Control the Zoa in Ableton with Max for Live.
 
 Zoa is powered by usb. This can be from a PC/Mac or a 5v power source such as wall chargers and portable batteries. 
 
-1 Place the zoa on a flat surface and plug in the usb, leaving the zoa still. A blue loading light will show up
-1 Wait for the loading bar to fill (around 4s)
-1 When the axes light show up, the zoa is streaming over midi and cv. You're ready to Pivot, Rock and Rotate! 
+1. Place the zoa on a flat surface and plug in the usb, leaving the zoa still. A blue loading light will show up
+1. Wait for the loading bar to fill (around 4s)
+1. When the axes light show up, the zoa is streaming over midi and cv. You're ready to Pivot, Rock and Rotate! 
 
 | ![Alt text](/Step1.png?raw=true "Title") |
 |:--:| 
