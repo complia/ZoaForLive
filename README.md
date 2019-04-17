@@ -12,15 +12,15 @@ Zoa is powered by usb. This can be from a PC/Mac or a 5v power source such as wa
 1. Wait for the loading bar to fill (around 4s)
 1. When the axes light show up, the zoa is streaming over midi and cv. You're ready to Pivot, Rock and Rotate! 
 
-| ![Alt text](/Step1.png?raw=true "Title") |
+| ![Alt text](/help/Step1.png?raw=true "Title") |
 |:--:| 
 | *Loading* |
 
-| ![Alt text](/Step3.png?raw=true "Title") |
+| ![Alt text](/help/Step3.png?raw=true "Title") |
 |:--:| 
 | *Streaming* |
 
 ## Patch
 To use the patch, drag the `Zoa.amxd` into a midi track. Use each instance to map ableton controls, set axis sensitivity and the origin (Zoa's natural resting output) 
 
-| ![Alt text](/Patch.png?raw=true "Title") |
+| ![Alt text](/help/Patch.png?raw=true "Title") |
