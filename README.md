@@ -1,5 +1,5 @@
 # ZoaForLive
-Control the Zoa in Ableton with this Max for Live patch. 
+Control the Zoa in Ableton with Max for Live. 
 
 ![Alt text](/HowToUse.jpg?raw=true "Title")
 
