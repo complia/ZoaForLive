@@ -1,7 +1,7 @@
 # ZoaForLive
 Control the Zoa in Ableton with Max for Live. 
 
-![Alt text](/HowToUse.jpg?raw=true "Title")
+![Alt text](/help/HowToUse.jpg?raw=true "Title")
 
 
 ## Plugging in
